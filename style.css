@@ -1,0 +1,66 @@
+.heading
+{
+    width: 100%;
+    top: 0;
+    position: sticky;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+}
+
+#start_game
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction
+{
+    display: inline-block;
+    width: 45%;
+}
+
+#credits
+{
+    background-color: black;
+    margin: 0px;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+#game_console
+{
+    background-color: transparent;
+    height: 500;
+}
+
+#status
+{
+    background-color: tomato;
+    width: 200px;
+}
